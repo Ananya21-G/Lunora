@@ -24,10 +24,10 @@ JavaScript (ES6+)
 Replit (Development Platform)
 GitHub (Version Control & Source Hosting)
 🚀 Live Demo
-🔗 View Live Project on GitHub Pages
+🔗 View Live Project on GitHub Pages(https://ananya21-g.github.io/Lunora/)
 
 📂 Source Code
-🔗 GitHub Repository
+🔗 GitHub Repository(https://github.com/Ananya21-G/Lunora)
 
 📁 Project Structure
 /
