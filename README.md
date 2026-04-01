@@ -8,14 +8,14 @@ A modern, fully responsive website with smooth animations, dark/light mode, and 
 
 ## ✨ Features
 
-- **🌓 Light & Dark Mode** - Theme toggle with localStorage persistence
-- **📱 Fully Responsive** - Mobile, tablet, and desktop optimized
-- **🎠 Portfolio Carousel** - Touch-enabled slider with auto-play
-- **💫 Scroll Animations** - Fade-in effects on scroll
-- **🌊 Parallax Effects** - Depth-creating background movements
-- **💧 Ripple Effects** - Material Design-inspired interactions
-- **📬 Contact Form** - With validation and toast notifications
-- **♿ Accessible** - Keyboard navigation & reduced motion support
+- **Light & Dark Mode** - Theme toggle with localStorage persistence
+- **Fully Responsive** - Mobile, tablet, and desktop optimized
+- **Portfolio Carousel** - Touch-enabled slider with auto-play
+- **Scroll Animations** - Fade-in effects on scroll
+- **Parallax Effects** - Depth-creating background movements
+- **Ripple Effects** - Material Design-inspired interactions
+- **Contact Form** - With validation and toast notifications
+- **Accessible** - Keyboard navigation & reduced motion support
 
 ## 🛠️ Tech Stack
 
